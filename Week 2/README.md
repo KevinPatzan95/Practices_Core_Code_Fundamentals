@@ -25,6 +25,8 @@ Cree un algoritmo para preparar un tazón de cereal con leche. Representa el res
 
 ### 2.2. Print my name
 
+![Sin título](https://user-images.githubusercontent.com/118086376/233261346-6ffb9018-8842-462f-bb07-a65f4a40f433.png)
+
 ### 2.3.Print my name & age
 
 ![Sin título](https://user-images.githubusercontent.com/118086376/233259155-38b27095-a0bf-4828-b0f1-819c91e64bf9.png)
