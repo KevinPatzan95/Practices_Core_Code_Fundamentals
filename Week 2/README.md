@@ -29,7 +29,7 @@ Cree un algoritmo para preparar un tazón de cereal con leche. Representa el res
 
 ### 2.3.Print my name & age
 
-![Sin título](https://user-images.githubusercontent.com/118086376/233259155-38b27095-a0bf-4828-b0f1-819c91e64bf9.png)
+![Sin título](https://user-images.githubusercontent.com/118086376/233266397-18eb7adf-8bf4-4670-b075-e7417cb41b3b.png)
 
 # 1.3 Week challenges (Wednesday) 💻
 Algorithm game
