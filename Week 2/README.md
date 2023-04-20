@@ -1,5 +1,20 @@
 # 1. Week challenges (Monday) 💻
 ## 1.1. Logic problem
+
+Descripción
+El maestro pregunta a sus 5 alumnos si estudiaron matemáticas ayer.
+
+Alice: "Nadie estudió matemáticas ayer".
+Bob: "1 persona estudió matemáticas ayer".
+Charlie: "2 personas estudiaron matemáticas ayer".
+Dan: "3 personas estudiaron matemáticas ayer".
+Eva: "4 personas estudiaron matemáticas ayer".
+
+El maestro sabe que solo aquellos que estudiaron dirían la verdad y aquellos que no lo hicieron estarían mintiendo. ¿Quién dice la verdad?
+
+R// Bob dice la verdad ya que es el único que sabe con certeza que una persona estudió
+
+
 ## 1.2. Cereal vrs Milk
 # Week challenges (Tuesday) 💻
 Install PSeInt
