@@ -1,6 +1,6 @@
-# Week challenges (Monday) 💻
-# 1. Logic problem
-# 2. Cereal vrs Milk
+# 1. Week challenges (Monday) 💻
+## 1.1. Logic problem
+## 1.2. Cereal vrs Milk
 # Week challenges (Tuesday) 💻
 Install PSeInt
 Print my name
