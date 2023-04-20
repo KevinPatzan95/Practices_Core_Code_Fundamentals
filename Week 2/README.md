@@ -23,10 +23,11 @@ Cree un algoritmo para preparar un tazón de cereal con leche. Representa el res
 # 2. Week challenges (Tuesday) 💻
 ### 2.1. Install PSeInt
 
-
 ### 2.2. Print my name
+
 ### 2.3.Print my name & age
-![image](https://user-images.githubusercontent.com/118086376/233242649-30684c57-6295-4ad5-8a30-8a9da0f62d1c.png)
+
+![Sin título](https://user-images.githubusercontent.com/118086376/233259155-38b27095-a0bf-4828-b0f1-819c91e64bf9.png)
 
 # 1.3 Week challenges (Wednesday) 💻
 Algorithm game
