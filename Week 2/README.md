@@ -20,6 +20,8 @@ R// Bob dice la verdad ya que es el único que sabe con certeza que una persona 
 Install PSeInt
 Print my name
 Print my name & age
+![image](https://user-images.githubusercontent.com/118086376/233242649-30684c57-6295-4ad5-8a30-8a9da0f62d1c.png)
+
 # 1.3 Week challenges (Wednesday) 💻
 Algorithm game
 Mod
