@@ -16,6 +16,12 @@ R// Bob dice la verdad ya que es el único que sabe con certeza que una persona 
 
 
 ## 1.2. Cereal vrs Milk
+
+Cree un algoritmo para preparar un tazón de cereal con leche. Representa el resultado en pseudocódigo y en un diagrama de flujo.
+
+![Sin título](https://user-images.githubusercontent.com/118086376/233247337-b6fc5314-4e75-43c8-97a6-c3a6fcea8c2c.png)
+
+
 # Week challenges (Tuesday) 💻
 ### 1.2.1. Install PSeInt
 ### 1.2.2. Print my name
