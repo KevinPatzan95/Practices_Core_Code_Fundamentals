@@ -39,6 +39,8 @@ This program must have a start menu where the user must select one of the previo
   1. Sum. The user enters two numbers and the result of the sum of both is printed
   2. Print day of the week. The user enters a day of the week using numbers and the name of the day must be printed. For example, if the number 1 is entered, the program prints the text Lunes.
   3. Calculate text length. The user enters a text and the length of the text should be printed. I was able to use the Pseint Longitud function to get the length.
+  
+  ![Multi_opcion](https://user-images.githubusercontent.com/118086376/236650113-484f6626-f537-4b8e-b859-54922ca77cbf.png)
 
 # 3. Week challenges (Wednesday) 💻
 ## 3.1. Multiplication Tables
