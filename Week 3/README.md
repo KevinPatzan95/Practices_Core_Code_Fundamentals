@@ -43,7 +43,11 @@ This program must have a start menu where the user must select one of the previo
   ![Multi_opcion](https://user-images.githubusercontent.com/118086376/236650113-484f6626-f537-4b8e-b859-54922ca77cbf.png)
 
 # 3. Week challenges (Wednesday) 💻
+
 ## 3.1. Multiplication Tables
+
+For this challenge you will create a program to calculate the multiplication tables for a given number using While (Mientras). The user must enter a number and then the multiplication table for the number must be printed.
+
 ## 3.2. Simple Calculator with Do While
 # 4. Week challenges (Thursday) 💻
 ## 4.1. Multiplication Tables with For
