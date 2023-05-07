@@ -51,6 +51,11 @@ For this challenge you will create a program to calculate the multiplication tab
 ![tablas](https://user-images.githubusercontent.com/118086376/236651763-fdbb74ce-3b7e-403b-adf6-e3653e0ab606.png)
 
 ## 3.2. Simple Calculator with Do While
+
+For this challenge we are going to use the simple calculator that we made in the challenge 02 but now adding the functionality to perform a calculation again without finishing the program. The program should ask us if we want to use another operation and if the user answers yes then we can perform a new operation. To solve this challenge remember to use Do while (Repetir Hasta Que).
+
+![Calculadora_Simple_Hastaque](https://user-images.githubusercontent.com/118086376/236652364-a6fb0bb1-aa38-4319-aca2-92ea9465dda7.png)
+
 # 4. Week challenges (Thursday) 💻
 ## 4.1. Multiplication Tables with For
 ## 4.2. Ascending and Descending Numbers
