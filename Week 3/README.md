@@ -57,6 +57,9 @@ For this challenge we are going to use the simple calculator that we made in the
 ![Calculadora_Simple_Hastaque](https://user-images.githubusercontent.com/118086376/236652364-a6fb0bb1-aa38-4319-aca2-92ea9465dda7.png)
 
 # 4. Week challenges (Thursday) 💻
+
 ## 4.1. Multiplication Tables with For
+
+
 ## 4.2. Ascending and Descending Numbers
 ## 4.3. Greetings
