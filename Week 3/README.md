@@ -60,6 +60,9 @@ For this challenge we are going to use the simple calculator that we made in the
 
 ## 4.1. Multiplication Tables with For
 
+For this challenge you will create a program to calculate the multiplication tables for a given number using the For(Para) loop. The user must enter a number and then the multiplication table for the number must be printed.
+
+![Tablas_For](https://user-images.githubusercontent.com/118086376/236741102-91c3eef7-2262-4c24-9164-4b914f2c0784.png)
 
 ## 4.2. Ascending and Descending Numbers
 ## 4.3. Greetings
