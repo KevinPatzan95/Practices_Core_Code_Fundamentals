@@ -2,6 +2,8 @@
 
 ## 1.1. Pizza 🍕
 
+Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
+
 1.  En un tazón Incorporar 500 gr de haritno tipo 00 en 350 ml de agua, 
 2.  Luego incorporar 10 gr de levadura (una cuchara)
 3.  y para terminar la masa incorporar 20 gr de sal con un poco de aceite de oliva
@@ -19,16 +21,30 @@
 15.  Devolver la pizza al horno hasta que el queso quede fundido
 16.  A disfutar!!! :)
 
-
-Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
-
 ## 1.2. Hot N Cold 🥶
 
 Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa.
 
+Para convertir celsius a Fahrenheit aplicar la fórmula siguiente:
+
+f° = ( 1.8 * C° ) + 32
+
+Para convertir Fahrenheit a Celsius aplicar la fórmula siguiente:
+
+C° = ( f° - 32 ) / 1.8
+
 ## 1.3. Geometry 📐
 
 Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
+
+Volumen de una pirámide rectarnguar: 
+V = ( a * b * h ) / 3
+Dónde:
+V = Volumen
+a = lado a de la base
+b = lado b de la base
+h = altura de la pirámide
+3 = valor constante
 
 # 2. Week challenges (Thursday) 💻
 
