@@ -79,3 +79,5 @@ For this challenge, you need to create a program that prints a greeting based on
   * Print Buenas noches! if the hour is from 19 to 23
   * Ask the user if he wants to perform another greeting. If the answer is Si, the program must start again.
   * At the end of the program, print out the number of times the program has greeted.
+
+![Saludos](https://github.com/KevinPatzan95/Practices_Core_Code_Fundamentals/assets/118086376/f6477c03-f291-4f8a-b518-8be9741a9b7d)
