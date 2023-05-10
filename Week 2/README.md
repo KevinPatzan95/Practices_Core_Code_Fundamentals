@@ -31,11 +31,12 @@ Cree un algoritmo para preparar un tazón de cereal con leche. Representa el res
 
 ![Sin título](https://user-images.githubusercontent.com/118086376/233266397-18eb7adf-8bf4-4670-b075-e7417cb41b3b.png)
 
-# 1.3 Week challenges (Wednesday) 💻
-Algorithm game
-Mod
-Register form
-# 1.4. Week challenges (Thursday) 💻
+# 3. Week challenges (Wednesday) 💻
+## 3.1. Algorithm game
+## 3.2. Mod
+## 3.3. Register form
+
+# 4. Week challenges (Thursday) 💻
 Truth tables
 Boolean results
 Identify odd and even numbers
