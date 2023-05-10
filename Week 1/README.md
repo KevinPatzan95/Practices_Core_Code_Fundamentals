@@ -25,11 +25,11 @@ Design an algorithm to prepare a pizza from scratch. Define the ingredients, wha
 
 Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa.
 
-Para convertir celsius a Fahrenheit aplicar la fórmula siguiente:
+### Para convertir celsius a Fahrenheit aplicar la fórmula siguiente:
 
 f° = ( 1.8 * C° ) + 32
 
-Para convertir Fahrenheit a Celsius aplicar la fórmula siguiente:
+### Para convertir Fahrenheit a Celsius aplicar la fórmula siguiente:
 
 C° = ( f° - 32 ) / 1.8
 
@@ -37,7 +37,7 @@ C° = ( f° - 32 ) / 1.8
 
 Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 
-### Volumen de una pirámide rectarnguar:
+### Volumen de una pirámide rectangular:
 
 V = ( a * b * h ) / 3
 
