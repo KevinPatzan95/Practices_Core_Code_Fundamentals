@@ -37,13 +37,20 @@ C° = ( f° - 32 ) / 1.8
 
 Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 
-Volumen de una pirámide rectarnguar: 
-V = ( a * b * h ) / 3;
+Volumen de una pirámide rectarnguar:
+
+V = ( a * b * h ) / 3
+
 Dónde:
+
 V = Volumen
+
 a = lado a de la base
+
 b = lado b de la base
+
 h = altura de la pirámide
+
 3 = valor constante
 
 # 2. Week challenges (Thursday) 💻
