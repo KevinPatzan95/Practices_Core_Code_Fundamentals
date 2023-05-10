@@ -53,6 +53,34 @@ h = altura de la pirámide
 
 3 = valor constante
 
+Volumen de una cubo:
+
+V = ( a * b * h )
+
+Dónde:
+
+V = Volumen
+
+a = lado a
+
+b = lado b
+
+h = altura del cubo
+
+Volumen de una esfera:
+
+V = ( 4 / 3 ) * π * r³
+
+Dónde: 
+
+V = Volumen
+
+4/3 = Constante
+
+π = 3.14159...
+
+r³ = radio al cubo
+
 # 2. Week challenges (Thursday) 💻
 
 ## 2.1. Numbers 📊
