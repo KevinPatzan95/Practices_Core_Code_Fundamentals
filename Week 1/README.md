@@ -2,6 +2,25 @@
 
 ## 1.1. Pizza 🍕
 
+1.  En un tazón Incorporar 500 gr de haritno tipo 00 en 350 ml de agua, 
+2.  Luego incorporar 10 gr de levadura (una cuchara)
+3.  y para terminar la masa incorporar 20 gr de sal con un poco de aceite de oliva
+4.  
+5.  En una tabla colocar un poco de harina para comenzar a amasar, lento de adentro hacia afuera
+6.  Si la harina se pega en las manos colocarse un poco de harina
+7.  amasar por 3 minutos
+8.  darle forma de una bola y colocar un paño humedo, guardarlo por dos horas para que leude la masa
+9.  En una bandeja coloar aceite de oliva para colocar la masa
+10.  Colocarse harina en los dedos para comenzar a estirar la masa con mucha delicadeza
+11.  Colocar salsa de tomate fresca con un poco de aceite de oliva, oregano, sal y albahaca si gusta
+12.  Colocar la salsa por toda la pizza de manera uniforme
+13.  Precalentar el horno a 250 grados
+14.  Meter la pizza al horno por 3 minutos
+15.  Pasado los minutos sacar la pizza para incorporar el queso y otros ingredientes al gusto como jamón, salami, pimientos
+16.  Devolver la pizza al horno hasta que el queso quede fundido
+17.  A disfutar!!! :)
+
+
 Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
 
 ## 1.2. Hot N Cold 🥶
