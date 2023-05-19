@@ -33,7 +33,11 @@ Cree un algoritmo para preparar un tazón de cereal con leche. Representa el res
 
 # 3. Week challenges (Wednesday) 💻
 ## 3.1. Algorithm game
+
+![Juego](https://github.com/KevinPatzan95/Practices_Core_Code_Fundamentals/assets/118086376/32f98cea-3ed9-476a-81b4-2e1e1a1c3713)
+
 ## 3.2. Mod
+
 ## 3.3. Register form
 
 # 4. Week challenges (Thursday) 💻
