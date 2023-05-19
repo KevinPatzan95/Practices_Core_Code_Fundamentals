@@ -87,6 +87,8 @@ r³ = radio al cubo
 
 Design an algorithm to check if a number is even or odd. If it is even, write that it is even, otherwise write that it is odd. Represent the algorithm in a flowchart.
 
+![paroimpar](https://github.com/KevinPatzan95/Practices_Core_Code_Fundamentals/assets/118086376/d8dc41c1-6b82-4d7b-804a-25d49d4f28ac)
+
 ## 2.2. Date of birth 👧
 
 Write pseudocode for an algorithm that calculates the age of a person based on date of birth
