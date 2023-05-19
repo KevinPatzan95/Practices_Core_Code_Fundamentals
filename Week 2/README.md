@@ -44,6 +44,18 @@ El desafío para usted ahora es crear un programa PSeInt que reciba un número d
 
 ## 3.3. Register form
 
+Se le asigna la tarea de crear un formulario de registro para nuevos usuarios, este formulario debe solicitar al usuario la siguiente información:
+
+* Nombre
+* Apellido
+* Edad
+* Correo electrónico
+* Dirección
+
+Al final del programa, debe imprimir toda la información agregada por el usuario de una manera amigable
+
+![form](https://github.com/KevinPatzan95/Practices_Core_Code_Fundamentals/assets/118086376/853702c2-1c9b-4a58-83cd-00221040a8e1)
+
 # 4. Week challenges (Thursday) 💻
 Truth tables
 Boolean results
