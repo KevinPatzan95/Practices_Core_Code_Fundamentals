@@ -57,6 +57,33 @@ Al final del programa, debe imprimir toda la información agregada por el usuari
 ![form](https://github.com/KevinPatzan95/Practices_Core_Code_Fundamentals/assets/118086376/853702c2-1c9b-4a58-83cd-00221040a8e1)
 
 # 4. Week challenges (Thursday) 💻
-Truth tables
+
+## Truth tables
+
+Aprenderá acerca de las tres operaciones lógicas principales utilizadas en la programación, estas operaciones se llaman AND, OR y NOT. Cada una de las operaciones utiliza booleanos como operandos, y al aplicar las operaciones se genera un resultado, que también es un booleano, esto es más fácil de comprobar usando las Tablas de Verdad para cada una de las operaciones, ahora tu tarea es que aprendas, y agrega las Tablas de Verdad para cada una de las operaciones agrégalas a tu README y comprueba si las siguientes operaciones son correctas respondiendo ✅ o ❌ al final de cada operación
+
+Operaciones:
+
+Recuerde que AND puede ser representado por &
+
+Recuerde que OR puede ser representado por |
+
+Recuerde que NO puede ser representado por ~
+
+T T = T&
+T F = F&
+F T = T&
+F F = F&
+T T = T|
+T F = F|
+F T = T|
+F F = F|
+~T = T
+~F = T
+(t f) (F) = T&|~
+(T F ) (F F) = T|&|
+~((T F ) (F F)) F = T|&|&
+~((T F ) (F F)) T = F|&|&
+
 Boolean results
 Identify odd and even numbers
