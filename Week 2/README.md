@@ -87,4 +87,5 @@ Recuerde que NO puede ser representado por ~
 
 ## Boolean results
 
+
 ## Identify odd and even numbers
