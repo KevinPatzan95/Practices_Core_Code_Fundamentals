@@ -93,6 +93,8 @@ Design an algorithm to check if a number is even or odd. If it is even, write th
 
 Write pseudocode for an algorithm that calculates the age of a person based on date of birth
 
+![Imprimir_Edad](https://github.com/KevinPatzan95/Practices_Core_Code_Fundamentals/assets/118086376/70b4cee7-a8da-47d5-a755-2a9ea8dbfc47)
+
 ## 2.3. Treasures 👑
 
 We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies.
