@@ -38,6 +38,10 @@ Cree un algoritmo para preparar un tazón de cereal con leche. Representa el res
 
 ## 3.2. Mod
 
+El desafío para usted ahora es crear un programa PSeInt que reciba un número del usuario y agregue el operador mod usando el caso par / impar (X % 2) donde X es la entrada del usuario
+
+![par](https://github.com/KevinPatzan95/Practices_Core_Code_Fundamentals/assets/118086376/c0c529f3-2ac0-4ebc-8207-e5a13271ac60)
+
 ## 3.3. Register form
 
 # 4. Week challenges (Thursday) 💻
