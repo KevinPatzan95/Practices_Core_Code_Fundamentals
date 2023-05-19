@@ -105,4 +105,6 @@ Right chest: Only one of these chests has treasures.
 
 Which chests have treasures?
 
-image
+Utilizando el pensamiento lógico de todos los menssajes de los cofres mienten, en cofre de la izquierda tienen un tesoro si miente no lo tienen, el cofre del medio todos los cofres tienen tesoros por lo que no todos tienen un tesoro, el cofre de la derecha indica que solo uno de los cofres titnen un tesoro por lo que más de un cofre tiene un tesoro.
+
+Solo tenemos confirmación que el cofre del medio no tiene un tesoro, utilizando los argumentos de que no todos y que más de uno tienen tesoros, dejando únicamente el cofre izquierdo y derecho con tesoros.
